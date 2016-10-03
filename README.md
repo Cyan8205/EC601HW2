@@ -3,5 +3,11 @@
 Qing Lu
 
 ## Description 
-Built an IOS Application follewed by the tuturial 
+Built an IOS Application - "Tap Pikachu!" 
+
+## Reference 
+
+[Tutorial](https://www.raywenderlich.com/143771)
+
+
 
