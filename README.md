@@ -10,9 +10,9 @@ Built an IOS Application - "Tap Pikachu!"
 [Tutorial](https://www.raywenderlich.com/143771)
 
 ### Screenshot for Running App
-![Start the Game](http://imgur.com/a/6AEbG)
+![Start the Game](http://imgur.com/a/XBzlK)
 
-![Alert Time is Up](http://imgur.com/a/b16ti)
+![Alert Time is Up](http://imgur.com/gallery/l5L8d)
 
 ### Screenshot for Trello
 ![Trello Screenshot](http://imgur.com/a/NiemC)
